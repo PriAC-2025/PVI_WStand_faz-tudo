@@ -75,8 +75,9 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
 
 <section id="contato">
   <h2>Entre em Contato</h2>
-  <p><strong>Email:</strong> contato@ricardaoreparos.com</p>
-  <p><strong>Telefone/WhatsApp:</strong> (11) 91234-5678</p>
+    <p><strong>Email:</strong> contato@ricardaoreparos.com</p>
+    <p><strong>Telefone/WhatsApp:</strong> (11) 91234-5678</p>
+  
   <form>
     <label for="nome">Nome:</label>
     <input type="text" id="nome" name="nome" required>
@@ -89,7 +90,7 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
 </section>
 
 <footer>
-  <p>© 2023 Marido de Aluguel. Todos os direitos reservados.</p>
+  <p>© 2025 Ricardão Marido de Aluguel. Todos os direitos reservados.</p>
 </footer>
 
 </body>
