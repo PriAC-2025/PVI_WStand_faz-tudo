@@ -98,7 +98,7 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
 </html>
 
 
-/styles.css/
+styles.css
 
 body {
   font-family: Arial, sans-serif;
