@@ -18,7 +18,7 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
 
 <section id="sobre">
   <h2>Sobre Nós</h2>
-    <p>Somos uma empresa dedicada a oferecer serviços de qualidade em reparos e manutenção domiciliar. Com profissionais experientes, garantimos eficiência e confiança em cada tarefa.</p>
+    <p>Somos uma empresa dedicada a oferecer serviços de qualidade em reparos e manutenção domiciliar. Com profissionais experientes, garantimos eficiência e confiança em cada tarefa!</p>
 </section>
 
 <section id="servicos">
@@ -54,6 +54,7 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
 <section id="vantagens">
   <h2>Vantagens e Benefícios</h2>
   <ul>
+    <li>Tenha sua casa sempre linda e funcional.</li>
     <li>Atendimento personalizado e confiável.</li>
     <li>Profissionais experientes e qualificados.</li>
     <li>Tarefas realizadas com qualidade, agilidade e limpeza.</li>
@@ -95,4 +96,8 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
 
 </body>
 </html>
+
+
+
+
 
