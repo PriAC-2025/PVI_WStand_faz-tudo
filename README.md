@@ -25,27 +25,27 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
   <h2>Serviços Oferecidos</h2>
   <div class="flexbox-container">
     <div class="service-card">
-      <h3>Reparos Gerais</h3>
+      <h3>&#10003Reparos Gerais</h3>
       <p>Oferecemos serviços para consertos de alvenaria em geral na sua casa.</p>
     </div>
     <div class="service-card">
-      <h3>Pintura</h3>
+      <h3>&#10003Pintura</h3>
       <p>Pintura de interiores e exteriores com organização e acabamento impecáveis.</p>
     </div>
     <div class="service-card">
-      <h3>Montagem de Móveis</h3>
+      <h3>&#10003Montagem de Móveis</h3>
       <p>Montamos seus móveis de forma rápida e segura.</p>
     </div>
     <div class="service-card">
-      <h3>Instalações Elétricas</h3>
+      <h3>&#10003Instalações Elétricas</h3>
       <p>Manutenção e reparos nas instalações elétricas para sua segurança e economia.</p>
     </div>
     <div class="service-card">
-      <h3>Instalações Hidráulicas</h3>
+      <h3>&#10003Instalações Hidráulicas</h3>
       <p>Manutenção e reparos nas instalações hidráulicas para seu conforto e economia.</p>
     </div>
     <div class="service-card">
-      <h3>Serviços de Jardinagem</h3>
+      <h3>&#10003Serviços de Jardinagem</h3>
       <p>Cuidados e manutenção do seu jardim, com muito carinho, para que ele fique sempre bonito.</p>
     </div>
   </div>
@@ -63,13 +63,13 @@ Página para oferecer trabalho de "faz tudo_marido de aluguel"
 </section>
 
 <section id="depoimentos"
-  <h2>O que nossos cliente dizem sobre nós...</h2>
+  <h2>O que nossos cliente dizem sobre nós</h2>
   <blockquote>
-    <p>"Serviço de qualidade! O marido de aluguel resolveu todos os nossos problemas em casa!"</p>
+    <p>&#10003"Serviço de qualidade! O marido de aluguel resolveu todos os nossos problemas em casa!"</p>
     <cite>- Ana Paula</cite>
   </blockquote>
   <blockquote>
-    <p>"Muito profissional e atencioso. Recomendado!"</p>
+    <p>&#10003"Muito profissional e atencioso. Recomendado!"</p>
     <cite>- Carlos Eduardo</cite>
   </blockquote>
 </section>
